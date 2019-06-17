@@ -1,0 +1,78 @@
+@model Ponto_Digital.ViewModel.DepoimentoViewModel
+
+@{
+    var User = (string) ViewData["User"];
+    var tipo = (string) ViewData["Tipo"];
+}
+<link rel="stylesheet" href="~/css/dashboard.css">
+<h2>Quantidade de...</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Usuários Cadastrados</th>
+            <th scope="col">Depoimentos</th>
+            <th scope="col">Depoimentos aprovados</th>
+            <th scope="col">Depoimentos reprovados</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.NumUsuarios</td>
+            <td>@Model.NumDepoimentos</td>
+            <td>@Model.NumDepoimentosAprovados</td>
+            <td>@Model.NumDepoimentosReprovados</td>
+        </tr>
+    </tbody>
+</table>
+<h2>Lista de Usuários Cadastrados</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Nome Completo</th>
+            <th scope="col">Email</th>
+            <th scope="col">Senha</th>
+            <th scope="col">Plano</th>
+            <th scope="col">Data de Nascimento</th>
+            <th scope="col">Tipo de Usuario</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.UltimosUsuarios)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nome</td>
+                <td>@item.Email</td>
+                <td>@item.Senha</td>
+                <td>@item.Plano.Nome</td>
+                <td>@item.DataNascimento.ToShortDateString()</td>
+                <td>@item.TipoUsuario</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<h2>Lista de Depoimentos</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Nome Usuario</th>
+            <th scope="col">Data da publicação</th>
+            <th scope="col">Depoimento</th>
+            <th scope="col">Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.UltimosDepoimentos)
+        {   
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.NomeUsuario</td>
+            <td>@item.HorarioPublicacao</td>
+            <td>@item.Depoimento</td>
+            <td>@item.Status</td>
+        </tr>
+        }
+    </tbody>
+</table>

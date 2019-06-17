@@ -1,0 +1,28 @@
+form{
+    width: 75%;
+    margin: 10vh auto;
+    height: 10vh;
+}
+h2{
+    text-align: center;
+    font-size: 3em;
+    color: #000;
+    text-shadow: 5px 5px 5px #f2a620;
+    padding-top: 5vh;
+}
+p{
+    text-align: center;
+    margin-top: 5vh;
+    font-size: 2em;
+}
+#Caixa{
+    height: 10vh;
+}
+@media (max-width: 550px) {
+    h2{
+        font-size: 2em;
+    }
+    p{
+        font-size: 1.5em;
+    }
+}

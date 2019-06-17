@@ -1,0 +1,35 @@
+@model Ponto_Digital.ViewModel.DepoimentoViewModel
+@{
+    var User = (string) ViewData["User"];
+    var tipo = (string) ViewData["Tipo"];
+}
+
+<section id="escrever">
+    @if (!string.IsNullOrEmpty(User)){
+        <a class="lin" asp-controller="Depoimentos" asp-action="Comentario">Digite um comentário</a>
+    }
+    @if (!string.IsNullOrEmpty(tipo)) {
+        <div class="depoimento_l">
+            @foreach (var item in Model.Depoimentos) {
+                <div class="cada_depoimento">
+                    <p class="nome">@item.NomeUsuario</p>
+                    <p class="time">@item.HorarioPublicacao</p>
+                    <p class="coment">@item.Depoimento</p>
+                    <p class="status">@item.Status</p>
+                    <a class="bottonn" class="btn-primary" href="Depoimentos/Aprovar?id=@item.Id">Aprovar</a>
+                    <a class="bottonn" class="btn-primary" href="Depoimentos/Reprovar?id=@item.Id">Reprovar</a>
+                </div>
+            }
+        </div>
+    } else if (string.IsNullOrEmpty(tipo)) {
+        <div class="depoimento_l">
+            @foreach (var item in Model.DepoimentosAprovados) {
+                <div class="cada_depoimento">
+                    <p class="nome">@item.NomeUsuario</p>
+                    <p class="time">@item.HorarioPublicacao</p>
+                    <p class="coment">@item.Depoimento</p>
+                </div>
+            }
+        </div>
+    }
+</section>

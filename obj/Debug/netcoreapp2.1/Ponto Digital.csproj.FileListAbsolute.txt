@@ -1,0 +1,108 @@
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.deps.json
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.runtimeconfig.json
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.runtimeconfig.dev.json
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.dll
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.pdb
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.Views.dll
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.Views.pdb
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.csprojAssemblyReference.cache
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.csproj.CoreCompileInputs.cache
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorAssemblyInfo.cache
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorAssemblyInfo.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.AssemblyInfoInputs.cache
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.AssemblyInfo.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.TagHelpers.input.cache
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.TagHelpers.output.cache
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorCoreGenerate.cache
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\DashBoard\Index.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Depoimentos\Comentario.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Depoimentos\Index.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Sucesso.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorTargetAssemblyInfo.cache
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorTargetAssemblyInfo.cs
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.Views.pdb
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.dll
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.pdb
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.csproj.CopyComplete
+C:\Users\43127523890\Documents\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Erro.g.cshtml.cs
+E:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.deps.json
+E:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.runtimeconfig.json
+E:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.runtimeconfig.dev.json
+e:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.dll
+e:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.pdb
+E:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.Views.dll
+e:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.Views.pdb
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.csprojAssemblyReference.cache
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.csproj.CoreCompileInputs.cache
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorAssemblyInfo.cache
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorAssemblyInfo.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.AssemblyInfoInputs.cache
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.AssemblyInfo.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.TagHelpers.input.cache
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.TagHelpers.output.cache
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorCoreGenerate.cache
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\DashBoard\Index.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Depoimentos\Comentario.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Depoimentos\Index.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Erro.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Sucesso.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorTargetAssemblyInfo.cache
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorTargetAssemblyInfo.cs
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.Views.pdb
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.dll
+e:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.pdb
+E:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.csproj.CopyComplete
+D:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.deps.json
+D:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.runtimeconfig.json
+D:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.runtimeconfig.dev.json
+D:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.dll
+D:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.pdb
+D:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.Views.dll
+D:\Projeto-Final\Ponto Digital\bin\Debug\netcoreapp2.1\Ponto Digital.Views.pdb
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.csprojAssemblyReference.cache
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.csproj.CoreCompileInputs.cache
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorAssemblyInfo.cache
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorAssemblyInfo.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.AssemblyInfoInputs.cache
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.AssemblyInfo.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.TagHelpers.input.cache
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.TagHelpers.output.cache
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorCoreGenerate.cache
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\DashBoard\Index.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Depoimentos\Comentario.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Depoimentos\Index.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Erro.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Sucesso.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorTargetAssemblyInfo.cache
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.RazorTargetAssemblyInfo.cs
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.Views.pdb
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.dll
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.pdb
+D:\Projeto-Final\Ponto Digital\obj\Debug\netcoreapp2.1\Ponto Digital.csproj.CopyComplete

@@ -1,0 +1,9 @@
+<h2>Bem Vindo @ViewData["Controller"]!!</h2>
+<p>Conte sua experiência com nosso produto!</p>
+<form method="POST" action='@Url.Action("EfetuarDepoimentos", "Depoimentos")'>
+    <div class="form-group">
+        <label for="Depoimento">Escreva aqui...</label>
+        <input id="Caixa" class="form-control" type="text" name="depoimento" required>
+    </div>
+    <input class="btn btn-primary" type="submit" value="enviar" id="cad">
+</form>

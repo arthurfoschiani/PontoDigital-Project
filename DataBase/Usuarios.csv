@@ -1,0 +1,7 @@
+id=1;nome=Administrador;email=admin@agoravai.com;senha=admin;plano=null;data-nascimento=31/12/2000;tipo-usuario=Administrador
+id=2;nome=Arthur Foschiani;email=arthur.foschiani@outlook.com;senha=12341234;plano=Large;data-nascimento=21/12/1995;tipo-usuario=Comum
+id=3;nome=Heitor Foschiani;email=heitor.foschiani@gmail.com;senha=12341234;plano=Short;data-nascimento=21/12/1995;tipo-usuario=Comum
+id=4;nome=Tainá Cavichia;email=taina@gmail.com;senha=12341234;plano=Tall;data-nascimento=21/12/1995;tipo-usuario=Comum
+id=5;nome=Carlos Tsuks;email=carlos@gmail.com;senha=12341234;plano=Tall;data-nascimento=21/12/1995;tipo-usuario=Comum
+id=6;nome=hey hey;email=hey@hey.hey;senha=12341234;plano=Tall;data-nascimento=21/12/1995;tipo-usuario=Comum
+id=7;nome=Carlo Tsuks;email=carlos@gmail.com;senha=12341234;plano=Medium;data-nascimento=25/05/1976;tipo-usuario=Comum
